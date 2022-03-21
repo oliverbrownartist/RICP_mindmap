@@ -7,7 +7,7 @@ function preload(){
     rainstick.hide();
     craneRotate = createVideo(['assets/crane_rotate.mov']);
     craneRotate.hide();
-    craneRaise = createVideo(['assets/crane_raise.mov']);
+    craneRaise = createVideo(['assets/crane_Raise.mov']);
     craneRaise.hide();
     vibrating = createVideo(['assets/vibrating.mp4']);
     vibrating.hide();
