@@ -30,7 +30,7 @@ function setup(){
     vidActivate(rainstick, 1150, 875, 270, 175);
     vidActivate(craneRotate, 30, 850, 170, 300);
     vidActivate(craneRaise, 120, 1010, 170, 300);
-    vidActivate(vibrating, 2475, 1370, 300, 300);
+    vidActivate(vibrating, 2475, 1370, 300, 285);
     vidActivate(flubber, 2977, 324, 300, 300);
     vidActivate(shoe, 2785, 1110, 300, 275);
     vidActivate(hands, 3230, 130, 380, 160);
